@@ -43,12 +43,12 @@ html, body {
   }
 
     .main-nav a:hover {
-      top: -5px;
+      top: 0px;
     }
 
 .page-content {
    margin-left: 350px;
-   margin-right: 350px
+   margin-right: 700px
 }
 
 
@@ -72,7 +72,10 @@ h2 {
   background-color: white;
   border-bottom: 1px solid #efefef;
 }
-
+img {
+	float: right;
+	margin left: 0px
+}
 
 .page-nav {
  position: absolute;
