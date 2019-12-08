@@ -7,6 +7,7 @@ html, body {
 .page {
   background-color: white;
   font-family: Open sans;
+ 
 }
 
 .nav-header {
@@ -21,7 +22,7 @@ html, body {
 
 .main-nav {
   width: 800px;
-  margin-left: 200px;
+  margin-left: 350px;
   position: absolute;
   bottom: 0px;
 }
@@ -46,7 +47,8 @@ html, body {
     }
 
 .page-content {
-   margin-left: 200px;
+   margin-left: 350px;
+   margin-right: 350px
 }
 
 
