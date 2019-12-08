@@ -36,11 +36,13 @@ html, body {
     padding: 5px 10px;
     transition: top 300ms ease;
     position:relative;
-    bottom: 0px; 
+	top: 10px;
+    
+	
   }
 
     .main-nav a:hover {
-      bottom: -20px;
+      top: -5px;
     }
 
 .page-content {
